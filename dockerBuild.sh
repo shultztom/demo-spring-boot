@@ -1,0 +1,1 @@
+docker build -t shultztom/demo-spring-boot:latest .
